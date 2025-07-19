@@ -88,6 +88,68 @@ To ensure the dataset was ready for meaningful analysis in Power BI, the followi
 - - -
 
 ### Exploratory Data Analysis
+After cleaning the dataset and merging the datasets to form a new dataset. These are the questions are tried to give answers to using the dataset:
+Key analysis questions:
+
+- What is the gender distribution across Palmoria?
+- Are performance ratings equally distributed by gender?
+- Does a gender pay gap exist? Where is it most significant?
+- How many employees earn below the $90,000 legal minimum?
+- How are salaries distributed across $10,000 bands?
+- How much bonus should be paid per employee, region, and department?
+- - -
+
+### Data Visuals
+<img width="960" height="547" alt="Screenshot 2025-07-19 073958" src="https://github.com/user-attachments/assets/832a1dd1-042b-4073-94d4-9464f19f121c" />
+
+
+
+
+
+<img width="961" height="555" alt="Screenshot 2025-07-19 074135" src="https://github.com/user-attachments/assets/73c185fb-75ec-4200-944d-4f9d24eca3d8" />
+
+
+
+
+
+
+<img width="965" height="551" alt="Screenshot 2025-07-19 074314" src="https://github.com/user-attachments/assets/5576c4f1-6f71-4b54-8914-1519455d40ce" />
+
+
+
+
+
+
+<img width="959" height="550" alt="Screenshot 2025-07-19 074717" src="https://github.com/user-attachments/assets/38379b07-9d9a-463a-8b9b-e24bbe54b7de" />
+
+
+
+
+
+
+### Key Insights
+- **Gender Imbalance**: Kaduna and Lagos have more male employees than female employees. In Abuja, we have same number of male and female
+- **Pay Gaps**: After analyzing average salary across departments, i found that male employees earn more on average in 9 departments out of 12 departments, while female employees earn more in only 3 departments. This suggests a potential gender pay imbalance that requires further attention.
+- **Performance Ratings**: Female employees outperform the male counterparts as they populate more of the average, good and very good ratings. On average, the female still beat the male in performance
+- **Compliance Violations**: Out of 943 employees, only 292 employees earn up to $90,000 or more. This means that about 69% of employees earn less than the mandated $90,000 salary.
+- **Salary Banding**: Most employees fall into >$90,000 band followed by $70,000-$80,000 and $80,000–$90,000 bands.
+- - -
+
+### Recommendations
+- **Address Gender Pay Imbalance**: Conduct a detailed salary audit across all departments and roles to uncover root causes of the observed pay disparities. Implement pay equity policies and revise compensation structures to ensure fairness, especially in departments where males earn significantly more than their female counterparts.
+- **Strengthen Performance Appraisal Systems**: Since female employees consistently outperform their male counterparts, ensure that performance evaluations are standardized, transparent, and regularly updated. High-performing employees, regardless of gender, should be rewarded appropriately to encourage retention and motivation.
+- **Improve Gender Diversity in Key Regions**: Lagos and Kaduna show a strong male dominance. Launch targeted recruitment drives to attract and retain more female talent in these regions. Introduce inclusive workplace policies and mentorship programs to support gender balance.
+- **Review Salary Structure for Compliance**: With over 69% of employees earning less than the mandated $90,000 minimum, the company risks regulatory non-compliance. An immediate salary structure review is recommended to phase in salary adjustments and bring all employees into compliance with the new regulation.
+- **Optimize Salary Band Distribution**: Salary bands show concentration just above $90,000, which could indicate minimal compliance rather than value-based compensation. Consider implementing performance-based salary banding to reward high performers and align pay with role responsibilities and contributions.
+- **Investigate Unspecified Gender Data**: Employees with unspecified gender may skew analysis and hinder diversity tracking. Encourage self-identification through confidential surveys or onboarding updates to strengthen the accuracy of diversity metrics.
+- **Establish a Gender Equity Task Force**: Create a cross-functional team responsible for monitoring gender-related issues, promoting equity in hiring, promotions, pay, and retention, and providing regular reports to leadership.
+
+
+
+
+
+
+
 
 
 
