@@ -100,30 +100,24 @@ Key analysis questions:
 - - -
 
 ### Data Visuals
-<img width="960" height="547" alt="Screenshot 2025-07-19 073958" src="https://github.com/user-attachments/assets/832a1dd1-042b-4073-94d4-9464f19f121c" />
+
+<img width="960" height="547" alt="Screenshot 2025-07-19 073958" src="https://github.com/user-attachments/assets/23769f57-39c7-45e8-97c3-78efba745756" />
+
+
+
+
+<img width="961" height="555" alt="Screenshot 2025-07-19 074135" src="https://github.com/user-attachments/assets/dbb7796d-7247-4825-825e-5b16a7926e84" />
 
 
 
 
 
-<img width="961" height="555" alt="Screenshot 2025-07-19 074135" src="https://github.com/user-attachments/assets/73c185fb-75ec-4200-944d-4f9d24eca3d8" />
+<img width="965" height="551" alt="Screenshot 2025-07-19 074314" src="https://github.com/user-attachments/assets/09b84b1c-8741-48d8-97e7-912492b93d3c" />
 
 
 
 
-
-
-<img width="965" height="551" alt="Screenshot 2025-07-19 074314" src="https://github.com/user-attachments/assets/5576c4f1-6f71-4b54-8914-1519455d40ce" />
-
-
-
-
-
-
-<img width="959" height="550" alt="Screenshot 2025-07-19 074717" src="https://github.com/user-attachments/assets/38379b07-9d9a-463a-8b9b-e24bbe54b7de" />
-
-
-
+<img width="959" height="550" alt="Screenshot 2025-07-19 074717" src="https://github.com/user-attachments/assets/18bb8837-a794-49dd-9bf6-7f93e5639f22" />
 
 
 
@@ -135,7 +129,7 @@ Key analysis questions:
 - **Salary Banding**: Most employees fall into >$90,000 band followed by $70,000-$80,000 and $80,000–$90,000 bands.
 - - -
 
-### Recommendations
+### Recommendation
 - **Address Gender Pay Imbalance**: Conduct a detailed salary audit across all departments and roles to uncover root causes of the observed pay disparities. Implement pay equity policies and revise compensation structures to ensure fairness, especially in departments where males earn significantly more than their female counterparts.
 - **Strengthen Performance Appraisal Systems**: Since female employees consistently outperform their male counterparts, ensure that performance evaluations are standardized, transparent, and regularly updated. High-performing employees, regardless of gender, should be rewarded appropriately to encourage retention and motivation.
 - **Improve Gender Diversity in Key Regions**: Lagos and Kaduna show a strong male dominance. Launch targeted recruitment drives to attract and retain more female talent in these regions. Introduce inclusive workplace policies and mentorship programs to support gender balance.
@@ -143,6 +137,7 @@ Key analysis questions:
 - **Optimize Salary Band Distribution**: Salary bands show concentration just above $90,000, which could indicate minimal compliance rather than value-based compensation. Consider implementing performance-based salary banding to reward high performers and align pay with role responsibilities and contributions.
 - **Investigate Unspecified Gender Data**: Employees with unspecified gender may skew analysis and hinder diversity tracking. Encourage self-identification through confidential surveys or onboarding updates to strengthen the accuracy of diversity metrics.
 - **Establish a Gender Equity Task Force**: Create a cross-functional team responsible for monitoring gender-related issues, promoting equity in hiring, promotions, pay, and retention, and providing regular reports to leadership.
+- - - 
 
 
 
